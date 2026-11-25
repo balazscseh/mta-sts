@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: *.rackhost.hu
 mx: *.rackhostmx.com
-max_age: 86400
+max_age: 604800
